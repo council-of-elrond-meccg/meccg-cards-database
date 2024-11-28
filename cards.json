@@ -12,7 +12,7 @@
     "imageBaseUrl": {
       "en": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-remaster\/as\/",
       "es": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-remaster\/as\/",
-      "fr": "https:\/\/nextcloud.rupprecht.fr\/apps\/files_sharing\/publicpreview\/7fN2KkSKMxzgipK?fileId=101396&x=1920&y=1080&a=true&etag=87df888cca41522c5eeaffc15ba005a6&file=\/remaster\/as\/",
+      "fr": "https:\/\/cdn.jsdelivr.net\/gh\/DavRupprecht\/meccg-fr\/as\/",
       "enOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-original\/as\/",
       "esOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-original\/as\/"
     },
@@ -5850,7 +5850,7 @@
     "imageBaseUrl": {
       "en": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-remaster\/ba\/",
       "es": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-remaster\/ba\/",
-      "fr": "https:\/\/nextcloud.rupprecht.fr\/apps\/files_sharing\/publicpreview\/7fN2KkSKMxzgipK?fileId=101396&x=1920&y=1080&a=true&etag=87df888cca41522c5eeaffc15ba005a6&file=\/remaster\/ba\/",
+      "fr": "https:\/\/cdn.jsdelivr.net\/gh\/DavRupprecht\/meccg-fr\/ba\/",
       "enOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-original\/ba\/",
       "esOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-original\/ba\/"
     },
@@ -9505,7 +9505,7 @@
     "imageBaseUrl": {
       "en": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-remaster\/dm\/",
       "es": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-remaster\/dm\/",
-      "fr": "https:\/\/nextcloud.rupprecht.fr\/apps\/files_sharing\/publicpreview\/7fN2KkSKMxzgipK?fileId=101396&x=1920&y=1080&a=true&etag=87df888cca41522c5eeaffc15ba005a6&file=\/remaster\/dm\/",
+      "fr": "https:\/\/cdn.jsdelivr.net\/gh\/DavRupprecht\/meccg-fr\/dm\/",
       "enOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-original\/dm\/",
       "esOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-original\/dm\/"
     },
@@ -15827,7 +15827,7 @@
     "imageBaseUrl": {
       "en": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-remaster\/le\/",
       "es": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-remaster\/le\/",
-      "fr": "https:\/\/nextcloud.rupprecht.fr\/apps\/files_sharing\/publicpreview\/7fN2KkSKMxzgipK?fileId=101396&x=1920&y=1080&a=true&etag=87df888cca41522c5eeaffc15ba005a6&file=\/remaster\/le\/",
+      "fr": "https:\/\/cdn.jsdelivr.net\/gh\/DavRupprecht\/meccg-fr\/le\/",
       "enOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-original\/le\/",
       "esOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-original\/le\/"
     },
@@ -30622,7 +30622,7 @@
     "imageBaseUrl": {
       "en": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-remaster\/td\/",
       "es": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-remaster\/td\/",
-      "fr": "https:\/\/nextcloud.rupprecht.fr\/apps\/files_sharing\/publicpreview\/7fN2KkSKMxzgipK?fileId=101396&x=1920&y=1080&a=true&etag=87df888cca41522c5eeaffc15ba005a6&file=\/remaster\/td\/",
+      "fr": "https:\/\/cdn.jsdelivr.net\/gh\/DavRupprecht\/meccg-fr\/td\/",
       "enOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-original\/td\/",
       "esOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-original\/td\/"
     },
@@ -36852,7 +36852,7 @@
     "imageBaseUrl": {
       "en": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-remaster\/tw\/",
       "es": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-remaster\/tw\/",
-      "fr": "https:\/\/nextcloud.rupprecht.fr\/apps\/files_sharing\/publicpreview\/7fN2KkSKMxzgipK?fileId=101396&x=1920&y=1080&a=true&etag=87df888cca41522c5eeaffc15ba005a6&file=\/remaster\/tw\/",
+      "fr": "https:\/\/cdn.jsdelivr.net\/gh\/DavRupprecht\/meccg-fr\/tw\/",
       "enOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-original\/tw\/",
       "esOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-original\/tw\/"
     },
@@ -54435,7 +54435,7 @@
     "imageBaseUrl": {
       "en": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-remaster\/wh\/",
       "es": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-remaster\/wh\/",
-      "fr": "https:\/\/nextcloud.rupprecht.fr\/apps\/files_sharing\/publicpreview\/7fN2KkSKMxzgipK?fileId=101396&x=1920&y=1080&a=true&etag=87df888cca41522c5eeaffc15ba005a6&file=\/remaster\/wh\/",
+      "fr": "https:\/\/cdn.jsdelivr.net\/gh\/DavRupprecht\/meccg-fr\/wh\/",
       "enOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/en-original\/wh\/",
       "esOriginal": "https:\/\/cdn.jsdelivr.net\/gh\/council-of-rivendell\/meccg-remaster\/es-original\/wh\/"
     },
