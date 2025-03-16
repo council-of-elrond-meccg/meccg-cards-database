@@ -46,9 +46,11 @@ We welcome your constructive feedback, ideas, suggestions, and error reports. Th
 
 **Developed by:** Kodi for the CoE Rules Committee, based on the [MeCCG Remaster](https://github.com/council-of-rivendell/meccg-remaster) project
 
-**Contributors:** Pedro Mellado, Mordakai, Manuel Cabezalí, Ethan Eliam, Durin's Son, Alaster, jarruego, Filgonfin, Jaume Sabaté, Pegaso, Theo
+**Contributors:** Pedro Mellado, Mordakai, Manuel Cabezalí, Ethan Eliam, Durin's Son, Alaster, jarruego, Filgonfin, Jaume Sabaté, Pegaso
 
 **Special thanks:** Coleman Charlton, Eric Dane, Temujin, Vastor, rezwits
+
+**French texts by:** David Rupprecht, KakitaBen, Baba
 
 ## Disclaimer
 
